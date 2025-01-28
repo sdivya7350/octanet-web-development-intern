@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/be665094-88a2-49ff-acb0-048477e65709)
+
 Overview
 
-Books&M is a landing page designed and developed to cater to students needs, providing a vibrant and user-friendly online presence. This project was completed as part of my internship with OctaNet Services Pvt Ltd.
+FASTMOBILE is a landing page designed and developed to cater to students needs, providing a vibrant and user-friendly online presence. This project was completed as part of my internship with OctaNet Services Pvt Ltd.
 
 Live Demo
 
@@ -30,3 +30,4 @@ Interactive Elements. Engages users with dynamic confent and interactive feature
 Screenshots
 
 Landing Page
+![image](https://github.com/user-attachments/assets/be665094-88a2-49ff-acb0-048477e65709)
