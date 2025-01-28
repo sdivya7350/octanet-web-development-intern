@@ -9,7 +9,7 @@ Check out the live dema Books Mi Landing Page
 
 GitHub Repository
 
-Explore the ende: Books Mitthed Repo
+Explore the ende: octanet-web-development-intern
 
 Tech Stack
 
